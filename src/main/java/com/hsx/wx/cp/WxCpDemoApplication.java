@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp;
+package com.hsx.wx.cp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

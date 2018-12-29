@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.handler;
+package com.hsx.wx.cp.handler;
 
 /**
  * @author Binary Wang(https://github.com/binarywang)

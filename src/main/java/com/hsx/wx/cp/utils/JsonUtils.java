@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.utils;
+package com.hsx.wx.cp.utils;
 
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.core.JsonProcessingException;

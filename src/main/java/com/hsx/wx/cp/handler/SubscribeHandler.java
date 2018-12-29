@@ -1,10 +1,10 @@
-package com.github.binarywang.demo.wx.cp.handler;
+package com.hsx.wx.cp.handler;
 
 import java.util.Map;
 
 import org.springframework.stereotype.Component;
 
-import com.github.binarywang.demo.wx.cp.builder.TextBuilder;
+import com.hsx.wx.cp.builder.TextBuilder;
 import me.chanjar.weixin.common.error.WxErrorException;
 import me.chanjar.weixin.common.session.WxSessionManager;
 import me.chanjar.weixin.cp.api.WxCpService;

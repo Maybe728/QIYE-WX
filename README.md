@@ -1,7 +1,4 @@
-[![码云Gitee](https://gitee.com/binary/weixin-java-cp-demo/badge/star.svg?theme=blue)](https://gitee.com/binary/weixin-java-cp-demo)
-[![Github](http://github-svg-buttons.herokuapp.com/star.svg?user=binarywang&repo=weixin-java-cp-demo&style=flat&background=1081C1)](https://github.com/binarywang/weixin-java-cp-demo)
-[![Build Status](https://travis-ci.org/binarywang/weixin-java-cp-demo.svg?branch=master)](https://travis-ci.org/binarywang/weixin-java-cp-demo)
------------------------
+-------------
 
 ### 本项目为WxJava的Demo演示程序，基于Spring Boot构建，实现企业微信后端开发功能。
 更多信息请查阅：https://github.com/Wechat-Group/WxJava

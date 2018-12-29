@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.error;
+package com.hsx.wx.cp.error;
 
 import org.springframework.boot.web.server.ErrorPage;
 import org.springframework.boot.web.server.ErrorPageRegistrar;

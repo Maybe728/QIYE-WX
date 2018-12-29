@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.handler;
+package com.hsx.wx.cp.handler;
 
 import java.util.Map;
 

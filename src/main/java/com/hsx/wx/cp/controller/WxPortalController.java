@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.controller;
+package com.hsx.wx.cp.controller;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.github.binarywang.demo.wx.cp.config.WxCpConfiguration;
-import com.github.binarywang.demo.wx.cp.utils.JsonUtils;
+import com.hsx.wx.cp.config.WxCpConfiguration;
+import com.hsx.wx.cp.utils.JsonUtils;
 import me.chanjar.weixin.cp.api.WxCpService;
 import me.chanjar.weixin.cp.bean.WxCpXmlMessage;
 import me.chanjar.weixin.cp.bean.WxCpXmlOutMessage;

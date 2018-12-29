@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.handler;
+package com.hsx.wx.cp.handler;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

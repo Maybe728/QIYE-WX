@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.config;
+package com.hsx.wx.cp.config;
 
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -8,15 +8,15 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.github.binarywang.demo.wx.cp.handler.ContactChangeHandler;
-import com.github.binarywang.demo.wx.cp.handler.EnterAgentHandler;
-import com.github.binarywang.demo.wx.cp.handler.LocationHandler;
-import com.github.binarywang.demo.wx.cp.handler.LogHandler;
-import com.github.binarywang.demo.wx.cp.handler.MenuHandler;
-import com.github.binarywang.demo.wx.cp.handler.MsgHandler;
-import com.github.binarywang.demo.wx.cp.handler.NullHandler;
-import com.github.binarywang.demo.wx.cp.handler.SubscribeHandler;
-import com.github.binarywang.demo.wx.cp.handler.UnsubscribeHandler;
+import com.hsx.wx.cp.handler.ContactChangeHandler;
+import com.hsx.wx.cp.handler.EnterAgentHandler;
+import com.hsx.wx.cp.handler.LocationHandler;
+import com.hsx.wx.cp.handler.LogHandler;
+import com.hsx.wx.cp.handler.MenuHandler;
+import com.hsx.wx.cp.handler.MsgHandler;
+import com.hsx.wx.cp.handler.NullHandler;
+import com.hsx.wx.cp.handler.SubscribeHandler;
+import com.hsx.wx.cp.handler.UnsubscribeHandler;
 import com.google.common.collect.Maps;
 import lombok.val;
 import me.chanjar.weixin.common.api.WxConsts;

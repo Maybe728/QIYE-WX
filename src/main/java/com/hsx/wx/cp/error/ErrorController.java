@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wx.cp.error;
+package com.hsx.wx.cp.error;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

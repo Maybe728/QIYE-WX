@@ -1,10 +1,10 @@
-package com.github.binarywang.demo.wx.cp.config;
+package com.hsx.wx.cp.config;
 
 import java.util.List;
 
+import com.hsx.wx.cp.utils.JsonUtils;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-import com.github.binarywang.demo.wx.cp.utils.JsonUtils;
 import lombok.Getter;
 import lombok.Setter;
 
